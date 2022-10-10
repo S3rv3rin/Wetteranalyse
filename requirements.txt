@@ -1,0 +1,14 @@
+pandas
+requests
+geopy
+deutschland
+pip
+wheel
+lxml
+setuptools
+future
+matplotlib
+mysql-connector-python
+numpy
+feather-format
+python-dateutil
